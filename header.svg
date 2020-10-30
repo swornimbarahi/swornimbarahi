@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="450" viewBox="0 0 1920 450">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.02" y1="-0.018" x2="1.02" y2="1.021" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1d5c5"/>
+      <stop offset="1" stop-color="#e0a887"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_1">
+      <rect width="1920" height="450"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="1920" height="450" fill="url(#linear-gradient)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2170 -488.5)">
+      <text id="Swornim_Barahi" data-name="Swornim Barahi" transform="translate(2284.5 707.5)" fill="#0c0910" stroke="#0c0910" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" font-size="109" font-family="ArchitectsDaughter-Regular, Architects Daughter"><tspan x="0" y="0">Swornim Barahi</tspan></text>
+      <text id="SOFTWARE_ENGINEER" data-name="SOFTWARE ENGINEER" transform="translate(2680.898 798.188)" fill="#0c0910" stroke="#0c0910" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" font-size="75" font-family="ArchitectsDaughter-Regular, Architects Daughter"><tspan x="-393.75" y="0">SOFTWARE ENGINEER</tspan></text>
+    </g>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="832" height="30" transform="translate(1277.775 -63.99) rotate(30)" fill="#b85433"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="600" height="30" transform="translate(1478.692 -127.99) rotate(30)" fill="#fcfcfc"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="600" height="30" transform="translate(1424.692 533.01) rotate(-30)" fill="#ad8282"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="600" height="30" transform="translate(1478.692 -67.99) rotate(30)" fill="#0c0910"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="773" height="30" transform="translate(1328.87 -94.49) rotate(30)" fill="#ad8282"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="635" height="30" transform="translate(1394.381 490.51) rotate(-30)" fill="#0c0910"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="600" height="30" transform="translate(1424.692 593.01) rotate(-30)" fill="#b85433"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="716" height="30" transform="translate(1324.233 471.01) rotate(-30)" fill="#fcfcfc"/>
+  </g>
+</svg>
