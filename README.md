@@ -11,10 +11,6 @@ My name is **Swornim Barahi**, **Sora** for short, and I am a **Software Enginee
 ### My Free Time
 I love playing [Dota 2](www.dota2.com), [Paladins](www.paladins.com), [Call of Duty](www.callofduty) and [World of Warcraft](https://worldofwarcraft.com/en-us/) in my free time. I also love working on my side projects, playing soccer, reading tech blogs, and solving coding problems of [LeetCode](www.leetcode.com).
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swornimbarahi)
-
-
 ### Links to my stuff
 - [Github](www.github.com/swornimbarahi) But you're already here!
 - [Portfolio](www.swornimbarahi.com)
