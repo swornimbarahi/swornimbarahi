@@ -3,7 +3,7 @@
 ![Header](./header.svg)
 
 ### What I'm doing
-My name is **Swornim Barahi**, **Sora** for short, and I am a **Software Engineer** from New York. I recently graduated from SUNY Plattsburgh with a Bachelors of Science in CS. I am currently working at [Dollar Shave Club](www.dollarshaveclub.com) as a Contractor, and will be joining [Addepar](www.addepar.com) in January.
+My name is **Swornim Barahi**, **Sora** for short, and I am a **Software Engineer** from New York. I recently graduated from SUNY Plattsburgh with a Bachelors of Science in CS. I am currently working at [Addepar](www.addepar.com).
 
 ### GitHub Stats
 ![Swornim's github stats](https://github-readme-stats.vercel.app/api?username=swornimbarahi)
