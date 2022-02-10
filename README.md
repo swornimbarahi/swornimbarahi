@@ -9,7 +9,7 @@ My name is **Swornim Barahi**, **Sora** for short, and I am a **Software Enginee
 ![Swornim's github stats](https://github-readme-stats.vercel.app/api?username=swornimbarahi)
 
 ### My Free Time
-I love playing [Dota 2](www.dota2.com), [Paladins](www.paladins.com), [Call of Duty](www.callofduty) and [World of Warcraft](https://worldofwarcraft.com/en-us/) in my free time. I also love working on my side projects, playing soccer, reading tech blogs, and solving coding problems of [LeetCode](www.leetcode.com).
+I love playing [Dota 2](www.dota2.com), [Paladins](www.paladins.com), [Call of Duty](www.callofduty) and [World of Warcraft](https://worldofwarcraft.com/en-us/) in my free time. I also love working on my side projects, playing soccer, reading tech blogs, and solving coding problems on [LeetCode](www.leetcode.com).
 
 ### Links to my stuff
 - [Github](www.github.com/swornimbarahi) But you're already here!
